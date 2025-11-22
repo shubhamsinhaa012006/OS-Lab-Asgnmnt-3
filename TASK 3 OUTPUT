@@ -1,0 +1,21 @@
+#TASK 3 0UTPUT
+
+Enter total number of blocks: 20
+
+Enter number of files: 2
+
+Enter index block for file 1: 3
+
+Enter number of data blocks: 3
+
+Enter block numbers: 3 4 5
+
+File 1 allocated with index block 3 -> [3, 4, 5]
+
+Enter index block for file 2: 7
+
+Enter number of data blocks: 2
+
+Enter block numbers: 89
+
+File 2 allocated with index block 7 -> [8, 9]
